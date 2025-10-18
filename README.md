@@ -55,7 +55,7 @@ Or replace it with your own dataset and update file paths in the scripts.
 
 9. **Open the other terminal and Run to open the GUI Dashboard**
 
-       python gui_dashboard.py
+       streamlit run gui_dashboard.py
 
 **Uplaod the ticket and Enjoy the saved time!**
 
