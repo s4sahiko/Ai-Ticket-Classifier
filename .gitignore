@@ -1,0 +1,10 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore other Python build files and local data
+__pycache__/
+*.pyc
+*.log
+*.db
+*.jsonl
+kb_embeddings.npy
