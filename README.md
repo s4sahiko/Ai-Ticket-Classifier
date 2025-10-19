@@ -3,8 +3,8 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Made with ❤️ by s4sahiko](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20s4sahiko-red)](https://github.com/s4sahiko)
-![Repo Size](https://img.shields.io/github/repo-size/s4sahiko/Smart-Ticket-Classifier)
-![Last Commit](https://img.shields.io/github/last-commit/s4sahiko/Smart-Ticket-Classifier)
+![Repo Size](https://img.shields.io/github/repo-size/s4sahiko/Ai-Ticket-Classifier)
+![Last Commit](https://img.shields.io/github/last-commit/s4sahiko/Ai-Ticket-Classifier)
 ![Dashboard Preview](assests/dashboard.png)
 
 
