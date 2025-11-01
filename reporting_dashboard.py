@@ -30,7 +30,7 @@ def generate_report():
     total_requests = len(df)
     gap_percentage = (gap_count / total_requests) * 100 if total_requests else 0
     
-    print(f"\n--- MILESTONE 4: Content Gap Analysis ---")
+    print(f"\n--- Content Gap Analysis ---")
     print(f"Total recommendation requests logged: {total_requests}")
     print(f"Tickets flagged as Content Gaps (Weak/No Suggestion): {gap_count}")
     print(f"Content Gap Rate: {gap_percentage:.2f}%")
@@ -47,7 +47,7 @@ def generate_report():
     )
     
     sns.countplot(x='Suggestion Status', data=df, palette='viridis')
-    plt.title('Knowledge Base Health: Gap Detection (Milestone 4)')
+    plt.title('Knowledge Base Health: Gap Detection')
     plt.xlabel('Recommendation Outcome')
     plt.ylabel('Number of Tickets')
     plt.savefig(OUTPUT_IMAGE)
